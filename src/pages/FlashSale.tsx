@@ -63,7 +63,7 @@ export const FlashSale = () => {
                     {" "}
                     ₦10000 - ₦{el.price}
                   </div>
-                  <div>⭐⭐⭐⭐⭐</div>
+                  <div>⭐⭐⭐⭐</div>
                 </div>
               </Link>
             ))}

@@ -1,5 +1,5 @@
 import bg from "../../public/Assets/bg-slider-01.jpg";
-import watch from "../Assets/w.png";
+import watch from "../../public/Assets/img-slider1-01.png";
 import { FaArrowRight } from "react-icons/fa";
 
 
@@ -15,7 +15,7 @@ export const Hero = () => {
           <div className="w-[70%] ">
             <img
               src={watch}
-              className=" object-contain w-[100%] h-[300px]"
+              className=" object-contain w-[100%] h-[500px]"
               alt=""
             />
           </div>

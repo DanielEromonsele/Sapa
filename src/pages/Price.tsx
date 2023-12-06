@@ -21,7 +21,7 @@ export const Price = () => {
     .reduce((a: any, b: any) => a + b);
   console.log(watch);
 
-  var money = total;
+  let money = total;
 
   if (flat === true) {
     money += 2500;

@@ -2,25 +2,25 @@
   {
     "id": "1",
     "name": "Rolex",
-    "price": 4000000,
+    "price": 40000,
     "image": "./Assets/product-02-480x638.jpg"
   },
   {
     "id": "2",
     "name": "Gucci",
-    "price": 200000,
+    "price": 25000,
     "image": "./Assets/product-05-480x638.jpg"
   },
   {
     "id": "3",
     "name": "Smart Watch",
-    "price": 300000,
+    "price": 30000,
     "image": "./Assets/product-03-480x638.jpg"
   },
   {
     "id": "4",
     "name": "Louis Vuiton",
-    "price": 5000,
+    "price": 50000,
     "image": "./Assets/product-20-480x638.jpg"
   }
 ]
